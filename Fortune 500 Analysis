@@ -134,7 +134,7 @@
     SELECT company_name, AVG(revenue)
     FROM fortune_companies
     WHERE industry='Healthcare';
-
+ 
 | company_name | AVG(revenue)       |
 | ------------ | ------------------ |
 | Company B    | 202.00000000000003 |
